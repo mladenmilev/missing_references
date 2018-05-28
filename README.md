@@ -1,4 +1,5 @@
-# missing_references
+# C++ missing references between cpp and h files
+
 Identifies pair of .cpp and .h files which hare same name but are not referenced direclty. 
 This is considered bad coding style practice.
 
