@@ -1,6 +1,6 @@
 # C++ missing references between cpp and h files
 
-Identifies pair of .cpp and .h files which hare same name but are not referenced direclty. 
+Identifies pair of .cpp and .h files which share same name but are not referenced direclty. 
 This is considered bad coding style practice.
 
 https://google.github.io/styleguide/cppguide.html#Header_Files
